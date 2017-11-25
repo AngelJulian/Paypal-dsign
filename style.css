@@ -1,0 +1,288 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	margin: 0;
+	padding:0;
+}
+.wrap{
+	margin:0 auto;
+	height:1100px;
+}
+.main{
+	height:1100px;
+	width:1000px
+}
+.first{
+	width:1000px;
+	height:150px;
+	margin:0 auto;
+	padding-left:200px;
+	background-color:#f6f7f9;
+}
+h1{
+	font-size:14px;
+	font-weight: 600;
+	margin-top: 15px;
+	margin-left: 150px;
+}
+.circles{
+	font-size:30px;
+	opacity:0.05;
+	display:block;
+}
+.circles i.top{
+	position: absolute;
+	left:700px;
+	font-weight:700;
+}
+.circles .dot{
+	position: absolute;
+	left:750px;
+	top:100px;
+}
+.circles i.left{
+	position: absolute;
+	top:-8px;
+	font-size:18px;
+}
+.circles i.down{
+	position: absolute;
+	top:105px;
+	font-size:16px;
+	font-weight:700;
+}
+.circles i.right{
+	position: absolute;
+	top: -10px;
+	left:200px;
+	font-weight:700;
+}
+.card{
+	width:450px;
+	height:200px;
+	background-color:#fff;
+	border:1px solid #fff;
+	box-shadow:0px 20px 40px gainsboro;
+	position: absolute;
+	top:-1050px; 
+	left:300px;
+}
+.card-hearder{
+	padding:0px 10px;
+	height:10px;
+	border: none;
+}
+.one{
+	font-size:10px;
+	color:darkgray;
+	margin-top:5px;
+}
+.two{
+	margin-top:-20px;
+	font-size:10px;
+	color:darkgray;
+	margin-left: 260px;
+}
+.three{
+	margin-top:-20px;
+	font-size:10px;
+	color:darkgrey;
+	margin-left: 360px;
+}
+.card-body{
+	padding: 10px 5px;
+}
+.logo{
+	width:100px;
+	height:80px;
+}
+.name h3{
+	font-size:13px;
+	font-weight:700;
+	margin-top:-60px;
+	margin-left: 95px;
+}
+small{
+	color:darkgray;
+	font-size:9px;
+	position: absolute;
+	top:100px;
+	left: 100px;
+}
+.price{
+	font-weight:200;
+	margin-top: -40px;
+	margin-left:280px;
+}
+.action{
+	font-size:11px;
+	font-weight:400;
+	margin-left:188px;
+	margin-top: -20px;
+	color: darkgray;
+}
+.card-footer{
+	background-color:#fff;
+	padding: 0px;
+}
+span .up{
+	position: absolute;
+	left:400px;
+	top:160px;
+}
+.fig{
+	font-size: 16px;
+	font-weight:700;
+	margin-left:380px;
+}
+.second{
+	width:1000px;
+	height:950px;
+	margin:0 auto;
+	border:0.2px solid #f2f2f2;
+	background-color:#fff;
+}
+.middle{
+	width:600px;
+	padding-top:100px;
+}
+h4{
+	font-family: cursive;
+	font-size: 12px;
+	font-weight: 600;
+	margin-top:20px;
+	margin-left: -78px;
+	padding-bottom:-5px;
+}
+#text{
+	font-family: cursive;
+	margin-left:-80px;
+	margin-top: 30px;
+	border-radius: 4px;
+	text-align: center;
+	height:40px;
+	width:450px;
+	font-size:11px;
+	color: blue;
+	border:1px solid gainsboro;
+	
+}
+.btn-outline-secondary{
+	width: 190px;
+	height: 50px;
+	margin-left: -78px;
+	margin-top:20px;
+	color: black;
+}
+.fa-credit-card{
+	font-size: 30px;
+}
+i span{
+	font-size: 12px;
+}
+.btn-outline-success{
+	width: 190px;
+	height: 50px;
+	margin-left: 185px;
+	margin-top:-90px;
+	color: darkblue;
+}
+emp{
+	font-size:14px;
+	font-weight:800;
+	font-family:sans-serif;
+}
+emp .pal{
+	color:deepskyblue;
+	font-size:14px;
+}
+.details{
+	margin-left: -78px;
+}
+.personal{
+	font-family:sans-serif;
+	font-size: 12px;
+	font-weight: 600;
+}
+label{
+	font-family: cursive;
+	font-size: 12px;
+	font-weight:900;
+}
+.form-group sup{
+	color: red;
+}
+.small{
+	font-family: sans-serif;
+	font-size:8px;
+}
+.form-control{
+	height:40px;
+	width:455px;
+	font-size:12px;
+}
+#usr{
+	font-weight:700;
+}
+.btn-primary{
+	font-size:10px;
+	font-weight:500;
+	margin-top:30px;
+	margin-left:130px;
+	padding:10px 20px 10px 20px;
+	letter-spacing:2px;
+}
+.fa-shopping-bag{
+	font-size:9px;
+	opacity:0.2;
+	padding-right: 10px;
+}
+.privacy{
+	font-family:sans-serif;
+	width: 200px;
+	margin-top:50px;
+	margin-left:-75px;
+	font-size:10px;
+}
+.lock{
+	margin-top: -10px;
+	width:25px;
+}
+.privacy h6{
+	margin-top:5px;
+	font-size:12px;
+	font-weight:700;
+	
+}
+.security{
+	font-family:sans-serif;
+	width: 230px;
+	margin-top:50px;
+	margin-left:50px;
+	font-size:10px;
+}
+.shield{
+	margin-left: -30px;
+	width:50px;
+	height: 60px;
+	margin-top: -45px;
+
+}
+.footer{
+	font-size: 10px;
+	margin-top:50px;
+	margin-left: -250px;
+}
+.footer .fa-circle-o{
+	font-size:19px;
+	margin-top:3px;
+	font-weight:900;
+	opacity:0.07;
+}
+.security h6{
+	margin-top:5px;
+	font-size:12px;
+	font-weight:700;
+}
